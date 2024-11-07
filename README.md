@@ -1,4 +1,4 @@
-# sniffer
+# Sniffer
 
 Sniffer to detect SYN flood attack.
 
